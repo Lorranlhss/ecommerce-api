@@ -1,0 +1,52 @@
+# Java/Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nbm/
+
+# VS Code
+.vscode/
+
+# Maven
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Archive/temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Local environment overrides
+*.env
+.env.local
+
+# Java
+*.class
+
+# Coverage/Reports
+site/
